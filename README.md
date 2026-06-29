@@ -12,25 +12,25 @@
 
 ## Поиск информации и пробив по Соцсетям
 Социальные сети выступают одними из самых информативных источников открытых данных. Поиск по ним даёт возможность отыскать профили, проанализировать активность, увлечения, круг контактов и цифровые связи пользователя. Подобные проверки регулярно применяются при розыске людей, верификации аккаунтов, оценке репутации и восстановлении истории пребывания в сети.
-* ➡️[Разведка и поиск **ВКонтакте**](https://github.com/osint-and-search/OSINT_i_probiv_VKontakte) - инструменты и методы для исследования активности в ВКонтакте.
-* ➡️[Разведка и поиск **Instagram**](https://github.com/osint-and-search/OSINT_i_probiv_Instagram) - приёмы извлечения сведений из Инстаграм.
-* ➡️[Разведка и поиск **YouTube**](https://github.com/osint-and-search/OSINT_i_probiv_YouTube) - подходы к сбору информации на YouTube.
-* ➡️[Разведка и поиск **Facebook**](https://github.com/osint-and-search/OSINT_i_probiv_Facebook) - тактики работы с данными в Фейсбук.
-* ➡️[Разведка и поиск **TikTok**](https://github.com/osint-and-search/OSINT_i_probiv_TikTok) - сервисы и платформы для анализа аккаунтов ТикТок.
-* ➡️[Разведка и поиск **Linkedin**](https://github.com/osint-and-search/OSINT_i_probiv_Linkedin) - методы бизнес-разведки в Linkedin.
-* ➡️[Разведка и поиск **Одноклассниках**](https://github.com/osint-and-search/OSINT_i_probiv_Odnoklassniki) - варианты проверки пользователей в Одноклассниках.
-* ➡️[Разведка и поиск **МойМир**](https://github.com/osint-and-search/OSINT_i_probiv_MoyMir) - эффективные приёмы изучения соцсети МойМир.
-* ➡️[Разведка и поиск **X (ex.Twitter)**](https://github.com/osint-and-search/OSINT_i_probiv_X-Twitter) - набор инструментов для поиска данных в Twitter.
-* ➡️[Разведка и поиск **Twitch**](https://github.com/osint-and-search/OSINT_i_probiv_Twitch) - анализ профилей и статистики Twitch.
+* ➡️[Разведка и поиск **ВКонтакте**](https://github.com/osint-and-search/OSINT_i_poisk_VKontakte) - инструменты и методы для исследования активности в ВКонтакте.
+* ➡️[Разведка и поиск **Instagram**](https://github.com/osint-and-search/OSINT_i_poisk_v_Instagram) - приёмы извлечения сведений из Инстаграм.
+* ➡️[Разведка и поиск **YouTube**](https://github.com/osint-and-search/OSINT_i_poisk_v_YouTube) - подходы к сбору информации на YouTube.
+* ➡️[Разведка и поиск **Facebook**](https://github.com/osint-and-search/OSINT_i_poisk_v_Facebook) - тактики работы с данными в Фейсбук.
+* ➡️[Разведка и поиск **TikTok**](https://github.com/osint-and-search/OSINT_i_poisk_v_TikTok) - сервисы и платформы для анализа аккаунтов ТикТок.
+* ➡️[Разведка и поиск **Linkedin**](https://github.com/osint-and-search/OSINT_i_poisk_v_Linkedin) - методы бизнес-разведки в Linkedin.
+* ➡️[Разведка и поиск **Одноклассниках**](https://github.com/osint-and-search/OSINT_i_poisk_v_Odnoklassniki) - варианты проверки пользователей в Одноклассниках.
+* ➡️[Разведка и поиск **МойМир**](https://github.com/osint-and-search/OSINT_i_poisk_MoyMir) - эффективные приёмы изучения соцсети МойМир.
+* ➡️[Разведка и поиск **X (ex.Twitter)**](https://github.com/osint-and-search/OSINT_i_poisk_v_X-Twitter) - набор инструментов для поиска данных в Twitter.
+* ➡️[Разведка и поиск **Twitch**](https://github.com/osint-and-search/OSINT_i_poisk_v_Twitch) - анализ профилей и статистики Twitch.
 
 Максимальную отдачу поиск в соцсетях приносит при одновременном использовании нескольких площадок и разных приёмов анализа. Стоит помнить, что отдельные сведения могут оказаться закрытыми, удалёнными или намеренно искажёнными, поэтому полученные результаты желательно перепроверять через независимые источники.
 
 ## Поиск информации и пробив по Мессенджерам
 Мессенджеры прочно вошли в повседневное и деловое общение, поэтому поиск по ним приобретает особую значимость. Telegram, WhatsApp и аналогичные сервисы нередко хранят публичные профили, каналы, группы и дополнительные цифровые маркеры.
-* ➡️[Разведка и поиск **Telegram**](https://github.com/osint-and-search/OSINT_i_probiv_Telegram) - проверенные ресурсы и приёмы работы с ТГ.
-* ➡️[Разведка и поиск **WhatsApp**](https://github.com/osint-and-search/OSINT_i_probiv_WhatsApp) - способы нахождения связей и сведений по WhatsApp.
-* ➡️[Разведка и поиск **Discord**](https://github.com/osint-and-search/OSINT_i_probiv_Discord) - сканирование и анализ профилей в Discord.
-* ➡️[Разведка и поиск **ICQ**](https://github.com/osint-and-search/OSINT_i_probiv_ICQ) - сбор устаревших и актуальных данных по ICQ.
+* ➡️[Разведка и поиск **Telegram**](https://github.com/osint-and-search/OSINT_i_poisk_Telegram) - проверенные ресурсы и приёмы работы с ТГ.
+* ➡️[Разведка и поиск **WhatsApp**](https://github.com/osint-and-search/OSINT_i_poisk_v_WhatsApp) - способы нахождения связей и сведений по WhatsApp.
+* ➡️[Разведка и поиск **Discord**](https://github.com/osint-and-search/OSINT_i_poisk_v_Discord) - сканирование и анализ профилей в Discord.
+* ➡️[Разведка и поиск **ICQ**](https://github.com/osint-and-search/OSINT_i_poisk_ICQ) - сбор устаревших и актуальных данных по ICQ.
 
 Хотя мессенджеры обычно строже ограничивают доступ к информации, даже общедоступные сведения способны дать ценные зацепки. Комбинирование нескольких методик и сопоставление результатов заметно повышают точность и полноту итоговой картины.
 
